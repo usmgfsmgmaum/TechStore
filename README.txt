@@ -130,3 +130,4 @@ CONFIRMED ➔ cancel(motivo) ➔ CANCELLED (Requiere justificación)
 SHIPPED ➔ deliver() ➔ DELIVERED
 
 SHIPPED ➔ return_order() ➔ RETURNED
+
